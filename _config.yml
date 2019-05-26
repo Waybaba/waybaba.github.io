@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wang Wei"
   avatar           : "title_face.png"
-  bio              : "Blalalal Guauaua"
+  bio              : "Blalalala"
   location         : "Tianjin"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _portfolio
   - scope:
       path: ""
-      type: projects
+      type: portfolio
     values:
       layout: single
       author_profile: true
