@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Waybaba"
+title: "WAYBABA Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-
-WAYBABA Homepage
-======
 
 There are some information about me, which mainly focus on academic experiences of mine. 
 

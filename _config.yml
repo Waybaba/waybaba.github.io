@@ -85,7 +85,7 @@ author:
   bio              : "Blalalala"
   location         : "Tianjin"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "15305665971@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -228,6 +228,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _portfolio
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
