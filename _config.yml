@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wang Wei"
   avatar           : "title_face.png"
-  bio              : "Too young too simple, sometimes naive"
+  bio              : "Blalalal Guauaua"
   location         : "Tianjin"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -227,7 +227,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
