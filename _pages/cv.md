@@ -9,24 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+# under building ...
+
 Education
 ======
+
 * B.S. in Communication Engeering,  Tianjin University, 2016-2020
 
-Research  Experience
+Project  Experience
 ======
-* Summer 2015: Research Assistant
+* Skeleton Based Human Action Recognition
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Associate Professor Nie
+* Blood Cell Classification and Counting (click here for more details)
+  * Leader
+  * Sponsored by College student innovation and entrepreneurship fund
+  * Supervisor: Associate Professor Dong
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+## Award
+
+
+
+
+
+
+
+
+
 Skills
 ======
+
 * Skill 1
 * Programming
   * Master: python
