@@ -1,14 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Projects"
     url: /projects/
+
+  - title: "Papers"
+    url: /publications/
 
   - title: "Awards"
     url: /awards/
 
+  - title: "CV"
+    url: /cv/
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -21,8 +23,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
