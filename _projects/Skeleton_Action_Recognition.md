@@ -1,6 +1,6 @@
 ---
 title: "Skeleton based Human Action Recognition"
-excerpt: "Sponsored by National Venture Fund <br/><img src='/images/500x300.png'>"
+excerpt: "Sponsored by National Venture Fund <br/><img src='/images/action_recognition_main.jpg'>"
 collection: projects 
 ---
 
